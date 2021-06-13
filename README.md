@@ -77,35 +77,27 @@ const user = {
     <img src="https://github-readme-stats.vercel.app/api?username=vivek286&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
   </a>
   <a href="https://github.com/vivek286/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raklaptudirm&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek286&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
   </a>
   <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=raklaptudirm&bg_color=0d1117&text_color=FFF&border_color=444">
+  <a href="https://github.com/vivek286/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vivek286&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
 </p>
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=raklaptudirm&theme=react&background=0d1117&border=666">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=vivek286&theme=react&background=0d1117&border=666">
   </a>
   <br>
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=raklaptudirm&theme=react-dark&hide_border=true">
-  </a>
 </p>
 
 <h1 align="center"> Contributed to: </h1>
 <p align="center">
-  <a href="https://github.com/antfu/1990-script">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=antfu&repo=1990-script&bg_color=0d1117&text_color=FFF&border_color=444">
+  <a href="https://github.com/checkstyle/checkstyle">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=checkstyle&repo=checkstyle&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=awesome-github-profile-readme&bg_color=0d1117&text_color=FFF&border_color=444">
-  </a>
-  <a href="https://github.com/TheAlgorithms/Javascript">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=Javascript&bg_color=0d1117&text_color=FFF&border_color=444">
-  </a>
+  
 </p>    
 
 <h1 align="center"> Skills & Tools: </h1>
