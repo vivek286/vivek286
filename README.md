@@ -18,8 +18,8 @@
   
 ```js
 const user = {
-  user_name: "Rak Laptudirm",
-  my_age_no: 15,
+  user_name: "Vivek Solanki",
+  my_age_no: 18,
   _pronouns: [ "he", "him", "them", ],
   fav_theme: [ "dark", "monokai", ],
   fav_color: 0x0099ff,
@@ -29,21 +29,19 @@ const user = {
   codeStyle: "prettier",
   variables: "camelCase",
   
-  myhobbies: [ "programming", "cubing", "singing", "reading", "gaining knowledge", ],
+  myhobbies: [ "programming", "chess", "reading", "gaining knowledge", ],
   knowledge: [ "Black Holes", "Algorithms", "Ecmascript", "Numbers", "Tic-Tac-Toe", ],
   _projects: [ "Krypt", "mvcs", "better_read", "MKode", "3d-Engine", "Precise.js", ],  
-  languages: [ "Ecmascript", "Processing", "C++", "Java", ],
+  languages: [ "Python","Kotlin","Type Script", "Java Script", "C++", "Java", ],
   myeditors: [ "Sublime Text", "VS Code", "vim", "neovim", ],
   
-  thank_you: "Daniel Shiffman",
   
   learnNewLanguage: function () {
     console.log("Hello, World!")
   },
   
   hereIsYourFood: function (food) {
-    const good = [ "Indian Cottage Cheese", "Chicken", "Mixed Noodles", "Good Fish", 
-    "Prawn", ]
+    const good = [ "Street food", "Margherita", "Mixed Noodles", "Prawn", ]
     const acceptable = JSON.parse(fs.readFileSync("acceptableFoods.json"))
     
     if (good.includes(food)) {
@@ -60,25 +58,25 @@ const user = {
 
 <h1 align="center"> Working on: </h1>
 <p align="center">
-  <a href="https://github.com/raklaptudirm/mvcs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raklaptudirm&repo=mvcs&bg_color=0d1117&text_color=FFF&border_color=444">
+  <a href="https://github.com/vivek286/CODE__PAIR">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek286&repo=CODE__PAIR&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
-  <a href="https://github.com/raklaptudirm/Krypt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raklaptudirm&repo=Krypt&bg_color=0d1117&text_color=FFF&border_color=444">
+  <a href="https://github.com/vivek286/CYBER_MOVIE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek286&repo=CYBER_MOVIE&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
   <br>
-  <a href="https://github.com/TheAlgorithms/Javascript">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=Javascript&bg_color=0d1117&text_color=FFF&border_color=444">
+  <a href="https://github.com/vivek286/BITCOIN_TRADING_BOT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek286&repo=BITCOIN_TRADING_BOT&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
 </p>
 
 <h1 align="center"> 📊 Stats: </h1>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=raklaptudirm&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
+  <a href="https://github.com/vivek286/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=vivek286&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/vivek286/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raklaptudirm&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
   </a>
   <br>
