@@ -91,6 +91,8 @@ const user = {
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=vivek286&theme=react-dark&hide_border=true">
   </a>
+  [![viveks's github activity graph](https://activity-graph.herokuapp.com/graph?username=vivek286&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </p>
 
 <h1 align="center"> Contributed to: </h1>
