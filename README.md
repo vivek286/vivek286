@@ -33,7 +33,7 @@ const user = {
   knowledge: [ "Black Holes", "Algorithms", "Ecmascript", "Numbers", "Tic-Tac-Toe", ],
   _projects: [ "Long Live", "Codeial", "musicplayer", "trading bot", "crypto view", "cyber_movie"],  
   languages: [ "Python","Kotlin","Type Script", "Java Script", "C++", "Java", ],
-  myeditors: [ "Sublime Text", "VS Code", "vim", "neovim", ],
+  myeditors: [ "Sublime Text", "VS Code", "vim", "neovim","android studio" ],
   
   
   learnNewLanguage: function () {
@@ -88,6 +88,9 @@ const user = {
     <img src="http://github-readme-streak-stats.herokuapp.com?user=vivek286&theme=react&background=0d1117&border=666">
   </a>
   <br>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=vivek286&theme=react-dark&hide_border=true">
+  </a>
 </p>
 
 <h1 align="center"> Contributed to: </h1>
