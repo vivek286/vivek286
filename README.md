@@ -31,7 +31,7 @@ const user = {
   
   myhobbies: [ "programming", "chess", "reading", "gaining knowledge", ],
   knowledge: [ "Black Holes", "Algorithms", "Ecmascript", "Numbers", "Tic-Tac-Toe", ],
-  _projects: [ "Krypt", "mvcs", "better_read", "MKode", "3d-Engine", "Precise.js", ],  
+  _projects: [ "Long Live", "Codeial", "musicplayer", "trading bot", "crypto view", "cyber_movie","" ],  
   languages: [ "Python","Kotlin","Type Script", "Java Script", "C++", "Java", ],
   myeditors: [ "Sublime Text", "VS Code", "vim", "neovim", ],
   
@@ -80,9 +80,7 @@ const user = {
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek286&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
   </a>
   <br>
-  <a href="https://github.com/vivek286/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vivek286&bg_color=0d1117&text_color=FFF&border_color=444">
-  </a>
+  
 </p>
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
@@ -147,5 +145,5 @@ const user = {
 <h4 align="center"> The widgets on my <code>README.md</code> are works of many other contributers. Click on the widgets to use them yourself. </h4>
 
 <a href="https://github.com/ESKYoung/shields-io-visitor-counter">
-  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=raklaptudirm.raklaptudirm&style=for-the-badge">
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=vivek286.vivek286&style=for-the-badge">
 <a>
