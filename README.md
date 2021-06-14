@@ -29,10 +29,10 @@ const user = {
   codeStyle: "prettier",
   variables: "camelCase",
   
-  myhobbies: [ "programming", "chess", "reading", "gaining knowledge", ],
-  knowledge: [ "Black Holes", "Algorithms", "Ecmascript", "Numbers", "Tic-Tac-Toe", ],
+  myhobbies: [ "programming", "chess", "reading", "gaining knowledge" ],
+  knowledge: [ "Black Holes", "Algorithms", "Ecmascript", "Numbers", "Tic-Tac-Toe" ],
   _projects: [ "Long Live", "Codeial", "musicplayer", "trading bot", "crypto view", "cyber_movie"],  
-  languages: [ "Python","Kotlin","Type Script", "Java Script", "C++", "Java", ],
+  languages: [ "Python","Kotlin","Type Script", "Java Script", "C++", "Java" ],
   myeditors: [ "Sublime Text", "VS Code", "vim", "neovim","android studio" ],
   
   
