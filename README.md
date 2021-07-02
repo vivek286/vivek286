@@ -4,13 +4,10 @@
   </a>
 </h1>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github.com/vivek286/vivek286/blob/main/robot.svg">
-</p> -->
-<video width="320" height="240" loop>
-  <source src="about_me.mp4" type="video/mp4">
-  
-</video>
+</p>
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
