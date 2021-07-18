@@ -105,7 +105,7 @@ const user = {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=smaranjitghose&repo=awesome-portfolio-websites&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
   <a href="https://github.com/luckykumarirai/easy-education">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=smaranjitghose&repo=awesome-portfolio-websites&bg_color=0d1117&text_color=FFF&border_color=444">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luckykumarirai&repo=easy-education&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
   
 </p>    
