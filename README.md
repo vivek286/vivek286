@@ -66,8 +66,8 @@ const user = {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek286&repo=CYBER_MOVIE&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
   <br>
-  <a href="https://github.com/vivek286/BITCOIN_TRADING_BOT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek286&repo=BITCOIN_TRADING_BOT&bg_color=0d1117&text_color=FFF&border_color=444">
+  <a href="https://github.com/vivek286/Video_Call">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek286&repo=Video_Call&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
 </p>
 
